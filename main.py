@@ -1,6 +1,6 @@
 import json, os, requests
 
-webhook = 'Your webhook drrr'
+webhook = 'https://discord.com/api/guilds/1218131622457643008/widget.json'
 
 accounts = []
 
